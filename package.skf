@@ -1,0 +1,11 @@
+пакет {
+    имя = "skyforge-caesar"
+    версия = "0.1.0"
+    автор = "SkyPackages"
+    описание = "Шифр Цезаря для латиницы."
+    репозиторий = "github.com/skytech-alt/skyforge-caesar"
+    точка_входа = "code/main.skf"
+    теги = ["utils"]
+    лицензия = "MIT"
+    зависимости = []
+}
